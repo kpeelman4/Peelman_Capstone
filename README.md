@@ -138,7 +138,7 @@ paste(pwr.pct, sep="", "% power for one-way RM ANOVA with n=130")
 
 ```
 
-We need a sample size of n=130 ASI measurements per treatment group in order for 94% power to be achieved.  We know that >130 ASI measurements can be taken per animal (see de Vivo et al., 2017 - 1600 total ASI measurements across 12 mice (4 mice per treatment group), 1600/12 = 133).  Therefore, we need a minimum of 2 animals per treatment group for this experimental paradigm, meaning N=6 animals total.  N=6 total, N=2/group, n=200 ASI measurements/group, n=100 ASI measurements/animal.  
+We need a sample size of n=130 ASI measurements per treatment group in order for 94% power to be achieved.  We know that around 100 ASI measurements can be taken per animal (see de Vivo et al., 2017 - 1600 total ASI measurements across 12 mice (4 mice per treatment group), 1600/12 = 133).  Therefore, we need a minimum of 2 animals per treatment group for this experimental paradigm, meaning N=6 animals total.  N=6 total, N=2/group, n=200 ASI measurements/group, n=100 ASI measurements/animal.  
 
 ## 10. Knit & Submit!
 
